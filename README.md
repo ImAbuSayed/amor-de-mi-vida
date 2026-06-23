@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Amor de mi vida, tú sabes lo que quiero hacer
+> En la disco brillando, buscando tu piel de mujer
+> Tú tienes la magia que siempre me quita el frío
+> Baby, dime que sí, que sin ti todo está vacío
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
