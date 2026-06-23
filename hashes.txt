@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor de mi vida
+
+This log tracks the cryptographic history and versioning for the song **Amor de mi vida** (amor-de-mi-vida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T11:35:03.774709 | `v1` | `5d34808d3c73bcaaad3e0d7cf8398954bde48ba5e1ad029e9834eee7b9caee83` | `fde1c2a76bdd577eb1fc9af07cdfd5258bf790fcdd245037efaa28cdeb8e5958` | `2026-06-23_amor-de-mi-vida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

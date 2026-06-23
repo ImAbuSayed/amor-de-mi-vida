@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-de-mi-vida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Amor de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-mi-vida/) |
+| **Get License** | [Secure Licensing Rights for Amor de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-mi-vida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5d34808d3c73bcaaad3e0d7cf8398954bde48ba5e1ad029e9834eee7b9caee83` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
